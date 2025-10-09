@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.read,
+.unread{
+
+    font-size: 28px;
+    font-family: Times New Roman, Helvetica, sans-serif;
+}
+
+.read{
+    color:white;
+    background-color: black;
+
+}
+
+.unread{
+    background-color: yellow;
+
+}
+
+
